@@ -52,6 +52,6 @@ Check out the live demo of the app [here](https://s-p-o-t-i-f-y-clone.netlify.ap
 
 ## Technologies Used
 
-- ![React](React.png)
-- ![Tailwind CSS](Tailwind_CSS_logo.svg.png)
-- ![ Heroicons](heroicon.svg)
+- React
+- Tailwind CSS
+- Heroicons
