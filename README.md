@@ -48,7 +48,7 @@ Check out the live demo of the app [here](https://s-p-o-t-i-f-y-clone.netlify.ap
 
 ## Screenshots
 
-![Screenshot of the music player app](screenshot1.png)
+![Screenshot of the music player app](Screenshot.png)
 
 ## Technologies Used
 
