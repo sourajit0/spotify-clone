@@ -1,0 +1,105 @@
+const songs = [
+  {
+      id: 1,
+      title: "Love Nwantiti",
+      artist: "CKay",
+      src: "/songs/song1.mp3",
+      cover: "/covers/cover1.jpg",
+  },
+  {
+      id: 2,
+      title: "I Ain't Worried",
+      artist: "Ryan Tedder",
+      src: "/songs/song2.mp3",
+      cover: "/covers/cover2.jpg",
+  },
+  {
+    id: 3,
+    title: "Cheri Cheri Lady",
+    artist: "Modern Talking",
+    src: "/songs/song3.mp3",
+    cover: "/covers/cover3.jpg",
+  },{
+    id: 4,
+    title: "Frozen",
+    artist: "Madonna",
+    src: "/songs/song4.mp3",
+    cover: "/covers/cover4.jpg",
+},
+{
+    id: 5,
+    title: "That's What I Like",
+    artist: "Bruno Mars",
+    src: "/songs/song5.mp3",
+    cover: "/covers/cover5.jpg",
+},
+{
+  id: 6,
+  title: "Brother Louie",
+  artist: "Modern Talking",
+  src: "/songs/song6.mp3",
+  cover: "/covers/cover6.jpg",
+},{
+  id: 7,
+  title: "Happy Nation",
+  artist: "Ace of Base",
+  src: "/songs/song7.mp3",
+  cover: "/covers/cover7.jpg",
+},{
+  id: 8,
+  title: "Smack That",
+  artist: "Akon",
+  src: "/songs/song8.mp3",
+  cover: "/covers/cover8.jpg",
+},{
+  id: 9,
+  title: "Gangsta's Paradise",
+  artist: "Coolio and Kylian Mash",
+  src: "/songs/song9.mp3",
+  cover: "/covers/cover9.jpg",
+},{
+  id: 10,
+  title: "Somebody That I Used to Know",
+  artist: "Gotye",
+  src: "/songs/song10.mp3",
+  cover: "/covers/cover10.jpg",
+},{
+  id: 11,
+  title: "Devil Eyes",
+  artist: "Hippie Sabotage",
+  src: "/songs/song11.mp3",
+  cover: "/covers/cover11.jpg",
+},{
+  id: 12,
+  title: "On The Floor",
+  artist: "Jennifer Lopez",
+  src: "/songs/song12.mp3",
+  cover: "/covers/cover12.jpg",
+},{
+  id: 13,
+  title: "Wavin' Flag",
+  artist: "K'naan",
+  src: "/songs/song13.mp3",
+  cover: "/covers/cover13.jpg",
+},{
+  id: 14,
+  title: "Old Town Road",
+  artist: "Lil Nas X",
+  src: "/songs/song14.mp3",
+  cover: "/covers/cover14.jpg",
+},{
+  id: 15,
+  title: "Uptown Funk",
+  artist: "Bruno Mars & Mark Ronson",
+  src: "/songs/song15.mp3",
+  cover: "/covers/cover15.jpg",
+},{
+  id: 16,
+  title: "cradles",
+  artist: "Sub Urban",
+  src: "/songs/song16.mp3",
+  cover: "/covers/cover16.jpg",
+},
+];
+
+export default songs;
